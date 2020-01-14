@@ -10,6 +10,16 @@
   background-color: red;
 }
 
+.light-background{
+  background-color: white;
+  color: black;
+}
+
+.dark-background {
+  background-color: black;
+  color: whitesmoke;
+}
+
 .highlight-text {
   background-color: lightblue;
   border: 1px dotted navy;

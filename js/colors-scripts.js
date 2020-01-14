@@ -14,6 +14,16 @@ $(document).ready(function() {
     $("body").addClass("red-background");
   });
 
+  $("button#light").click(function() {
+    $("body").removeClass();
+    $("body").addClass("light-background");
+  });
+
+  $("button#dark").click(function() {
+    $("body").removeClass();
+    $("body").addClass("dark-background");
+  });
+
   $("#p1").click(function() {
     $("p").removeClass();
     $("#p1").addClass("highlight-text");
