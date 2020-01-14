@@ -1,0 +1,16 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.highlight-text {
+  background-color: lightblue;
+  border: 1px dotted navy;
+}
